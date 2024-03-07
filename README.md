@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rogan297
 - 👀 I’m interested in help you.
-- 🌱 I’m currently learning front-end.
-- 💞️ I’m looking to collaborate on in javascrip code or html/css code.
+- 🌱 I’m currently learning about coding
+- 💞️ I’m looking to collaborate on several codes
 - 📫 How to reach me use https://www.linkedin.com/in/rogelio-rojas-8b4560208/ (it's in process of construction..😁)
 
 <!---
